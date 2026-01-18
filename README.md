@@ -1,6 +1,5 @@
 # Playwright POM Test Automation Framework
 
-[![Playwright Tests](https://github.com/yourusername/playwright-pom-showcase/actions/workflows/playwright.yml/badge.svg)](https://github.com/yourusername/playwright-pom-showcase/actions/workflows/playwright.yml)
 [![Node.js](https://img.shields.io/badge/Node.js-20.11.0-green.svg)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.3.3-blue.svg)](https://www.typescriptlang.org/)
 [![Playwright](https://img.shields.io/badge/Playwright-1.40.1-45ba4b.svg)](https://playwright.dev/)
